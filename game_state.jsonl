@@ -1,6 +1,5 @@
-{"timestamp": "21:22:00.145", "elapsed_s": 1, "frame": 60, "screen_size": [1280, 720]}
-{"timestamp": "21:22:01.107", "elapsed_s": 2, "frame": 120, "screen_size": [1280, 720]}
-{"timestamp": "21:22:02.077", "elapsed_s": 3, "frame": 180, "screen_size": [1280, 720]}
-{"timestamp": "21:22:03.039", "elapsed_s": 4, "frame": 240, "screen_size": [1280, 720]}
-{"timestamp": "21:22:04.006", "elapsed_s": 5, "frame": 300, "screen_size": [1280, 720]}
-{"timestamp": "21:22:04.970", "elapsed_s": 6, "frame": 360, "screen_size": [1280, 720]}
+{"timestamp": "19:59:53.747", "elapsed_s": 3, "frame": 60, "screen_size": [1280, 720]}
+{"timestamp": "19:59:54.711", "elapsed_s": 4, "frame": 120, "screen_size": [1280, 720]}
+{"timestamp": "19:59:55.676", "elapsed_s": 5, "frame": 180, "screen_size": [1280, 720]}
+{"timestamp": "19:59:56.647", "elapsed_s": 6, "frame": 240, "screen_size": [1280, 720]}
+{"timestamp": "19:59:57.614", "elapsed_s": 7, "frame": 300, "screen_size": [1280, 720]}
